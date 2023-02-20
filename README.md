@@ -8,7 +8,7 @@ Lip-To-Speech-Synthesis
 ![2](https://user-images.githubusercontent.com/93143666/192133363-b4672e39-f120-421d-b3d3-4b0f904b5d7a.gif)
 
 
-# Author - 
+# Author 
 Xavier Dias
 
 

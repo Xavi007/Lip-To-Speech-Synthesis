@@ -12,7 +12,7 @@ Lip-To-Speech-Synthesis
 Xavier Dias
 
 
-# Contact -
+# Contact 
 [GITHUB](https://github.com/Xavi007)<br/>
 [Instagram](https://www.instagram.com/xavierdias07/)<br/>
 [Facebook](https://www.facebook.com/profile.php?id=100017097121241)<br/>

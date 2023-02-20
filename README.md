@@ -18,7 +18,7 @@ Xavier Dias
 [Facebook](https://www.facebook.com/profile.php?id=100017097121241)<br/>
 
 
-# Support -
+# Support 
 If you liked the project, please give it a star ⭐
 
 # Feedback -

@@ -1,5 +1,5 @@
 # Project Name 
-Lip-To-Speech-Synthesis...
+Lip-To-Speech-Synthesis..
 
 
 # Output 
